@@ -2,6 +2,7 @@
 
 # dependencies
 /riot-app/node_modules
+/node-stuff/node_modules
 /riot-app/.pnp
 .pnp.js
 
